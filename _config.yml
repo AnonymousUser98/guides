@@ -3,6 +3,7 @@ description: "Guides for setting up and getting the best configuration for vario
 markdown: GFM
 show_downloads: false
 repository: AnonymousUser98/guides
+theme: jekyll-theme-minima
 
 exclude:
   - Gemfile
