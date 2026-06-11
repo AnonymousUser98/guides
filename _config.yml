@@ -1,0 +1,14 @@
+title: "AU98 Tech Guides"
+description: "Guides for setting up and getting the best configuration for various software"
+markdown: GFM
+show_downloads: false
+repository: AnonymousUser98/guides
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - .sass-cache/
+  - .jekyll-cache/
+
