@@ -5,6 +5,19 @@ show_downloads: false
 repository: AnonymousUser98/guides
 theme: jekyll-theme-minima
 
+author:
+  name: AnonymousUser98
+
+minima:
+  social_links:
+    - title: AnonymousUser98's GitHub Profile
+      icon: github
+      url: "https://github.com/AnonymousUser98"
+    - title: GitHub Pages Website
+      icon: globe
+      url: "https://anonymoususer98.github.io"
+  hide_site_feed_link: true
+
 exclude:
   - Gemfile
   - Gemfile.lock
