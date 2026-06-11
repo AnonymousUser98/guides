@@ -18,6 +18,8 @@ minima:
       url: "https://anonymoususer98.github.io"
   hide_site_feed_link: true
 
+  date_format: "%B %e, %Y"
+
 exclude:
   - Gemfile
   - Gemfile.lock
