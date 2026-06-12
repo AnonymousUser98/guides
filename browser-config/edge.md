@@ -3,21 +3,6 @@ title: Best Browser Setup (Microsoft Edge)
 permalink: /browser-setup/edge/
 ---
 
-<!-- Replaced with new tab extension
-## New Tab Settings
-
-1. Open Microsoft Edge and go through the initial setup process if you haven't done that already.
-1. Click the settings icon in the top-right corner of your new tab page.
-1. Under _Quick Links & Search_, make sure _Show promoted links_ is turned off.
-1. Make sure _Show content_ is turned off.
-1. Choose a background image, or turn off the _Background_ option if you don't want one.
-
-### If you don't see these options...
-You probably have the new look enabled. Disable it.
-
-If you don't have an option to disable it, please follow [these instructions](edge-newtab.md) to get a better new tab page.
--->
-
 ## Browser Settings
 To get the best configuration in Microsoft Edge, you should start by changing some settings.
 
