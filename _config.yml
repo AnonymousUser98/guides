@@ -20,6 +20,10 @@ minima:
 
   date_format: "%B %e, %Y"
 
+  nav_pages:
+    - windows.md
+    - android.md
+
 exclude:
   - Gemfile
   - Gemfile.lock
