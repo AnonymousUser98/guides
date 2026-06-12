@@ -111,6 +111,26 @@ If you want to transfer your bookmarks to Edge from another browser, go to the _
 ## Important Notice
 If uBlock Origin ever breaks a website, click the red shield icon to the right of the address bar, click the giant power button, and reload the page. This will disable uBlock Origin for that website.
 
+## Changing Your New Tab Page
+<!-- Switch to OpenTab (https://github.com/phricardo/opentab) when it's released -->
+The default new tab page in Edge is filled with ads and annoying news articles. Follow these instructions to get a better new tab page:
+1. Open this link in Edge: https://microsoftedge.microsoft.com/addons/detail/new-web/cdgkeoiilacohpjkdakhpelhenaajeia
+1. Click _Get_ and then _Add extension_.
+1. Click _Turn on_ in the popup that appears.
+1. Turn on the _New WEB_ extension on the page that opens.
+1. Open a new tab, and click _Keep changes_ in the popup that appears.
+1. Click the settings icon in the top-right corner.
+1. Choose the search engine you want.
+1. Click on _Appearance_ in the settings sidebar and choose the colour theme you want (I recommend _Auto_).
+1. Click on _Dashboard_ in the settings sidebar and turn off the following options:
+    - Greeting
+    - Center Logo
+    - Favourites
+    - Usage Insight
+1. If you prefer it, enable the 24-hour clock. Otherwise, just close the settings menu.
+
+After following these steps, you should have a better new tab page.
+
 ---
 
 You should now have the best web browser setup.
