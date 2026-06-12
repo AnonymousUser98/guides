@@ -5,9 +5,6 @@ show_downloads: false
 repository: AnonymousUser98/guides
 theme: minima
 
-author:
-  name: AnonymousUser98
-
 minima:
   social_links:
     - title: AnonymousUser98's GitHub Profile
