@@ -125,3 +125,7 @@ If you want to transfer your bookmarks to Edge from another browser, go to the _
 
 # Important Notice
 If uBlock Origin ever breaks a website, click the red shield icon to the right of the address bar, click the giant power button, and reload the page. This will disable uBlock Origin for that website.
+
+---
+
+You should now have the best web browser setup.
