@@ -18,10 +18,10 @@ You probably have the new look enabled. Disable it.
 If you don't have an option to disable it, please follow [these instructions](edge-newtab.md) to get a better new tab page.
 -->
 
-# Browser Settings
+## Browser Settings
 To get the best configuration in Microsoft Edge, you should start by changing some settings.
 
-## Basic Browser Settings
+### Basic Browser Settings
 1. Click the three dots in the top-right corner, then click _Settings_.
 1. Make the following changes to your browser settings:
     - **_Profiles_ >> _Microsoft Rewards_ >> _Earn Microsoft Rewards in Microsoft Edge_** - Turn this off.
@@ -44,7 +44,7 @@ To get the best configuration in Microsoft Edge, you should start by changing so
 ### Configuring en-CA
 If you are Canadian, follow [these instructions](edge-en-ca.md) to get the correct language settings. Otherwise, skip this step.
 
-## Better Privacy & Security
+### Better Privacy & Security
 1. Go to the _Privacy, search, and services_ section of your browser settings.
 1. Under _Tracking prevention_, make sure it's set to _Balanced_ (the default setting). You'll get much better tracking protection later.
 1. Under _Privacy_, turn on the _Send "Do Not Track" requests_ option, and turn off everything else.
@@ -54,7 +54,7 @@ If you are Canadian, follow [these instructions](edge-en-ca.md) to get the corre
 1. Under _Search and connected experiences_, turn off _Save time and money with Shopping in Microsoft Edge_.
 1. Under _Search and connected experiences_, go to _Address bar and search_ and change your search engine to Google or DuckDuckGo. Do not use Bing (the default setting).
 
-## Don't Save My Info
+### Don't Save My Info
 By default, most browsers (including Edge) will save your passwords and other autofill information. This is insecure and can be easily accessed by malware, so you should disable it.
 <!-- REMEMBER: Add note with link to password manager guide -->
 
@@ -63,12 +63,12 @@ By default, most browsers (including Edge) will save your passwords and other au
 1. Under _Payment methods_, turn off _Save and fill payment methods_.
 1. Under _Addresses and more_, turn off _Save and autofill addresses_.
 
-# Extensions
+## Extensions
 The most important part of this browser setup is the extensions. These will block ads and trackers, improve your privacy, and protect your device from malware.
 
 Make sure you follow all the instructions.
 
-## uBlock Origin
+### uBlock Origin
 1. Open this link in Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 1. Click the blue _Get_ button, then click _Add extension_.
 1. Click the puzzle piece icon, then click the pin button next to _uBlock Origin_.
@@ -92,38 +92,38 @@ Make sure you follow all the instructions.
 1. Put the cursor at the end of the pasted text and press <kbd>Enter</kbd> to add a line feed.
 1. Click on the blue _Apply changes_ button at the top of the page.
 
-## OptMeowt
+### OptMeowt
 1. Open this link in Microsoft Edge: https://chromewebstore.google.com/detail/optmeowt/hdbnkdbhglahihjdbodmfefogcjbpgbo
 1. Click the _Get extension_ button at the top of the page.
     - If you don't see this button, click the blue _Get_ button.
 1. If you see a popup asking about "extensions from other stores", click _Allow_.
 1. Click _Add extension_.
 
-## Decentraleyes
+### Decentraleyes
 1. Open this link in Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/decentraleyes/lmijmgnfconjockjeepmlmkkibfgjmla
 1. Click the _Get_ button, then click _Add extension_ in the popup that appears.
 1. Close/ignore the new tab that opens.
 
-## Consent-O-Matic
+### Consent-O-Matic
 1. Open this link in Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/consentomatic/eflcfflijdiekjkegjghbchoncjhfkda
 1. Click the blue _Get_ button, then click _Add extension_.
 1. A new tab will open. Set your cookie preferences, then close the tab.
 
-## TrafficLight
+### TrafficLight
 1. Open this link in Microsoft Edge: https://chromewebstore.google.com/detail/trafficlight/cfnpidifppmenkapgihekkeednfoenal
 1. Click the _Get extension_ button, then click _Add extension_.
 1. Click the puzzle piece icon in the toolbar.
 1. Click _TrafficLight_, then click the settings icon in the top-right corner of the popup that appears.
 1. Turn off the _Search Advisor_ setting.
 
-## Don't track me Google
+### Don't track me Google
 1. Open this link in Microsoft Edge: https://chromewebstore.google.com/detail/dont-track-me-google/gdbofhhdmcladcmmfjolgndfkpobecpg
 1. Click _Get extension_ and then _Add extension_.
 
-# Transferring Bookmarks
+## Transferring Bookmarks
 If you want to transfer your bookmarks to Edge from another browser, go to the _Profiles_ section of your browser settings and click on _Import browser data_. Choose the option for the browser you want to import from, uncheck all options except _Favourites or bookmarks_, and click the _Import_ button.
 
-# Important Notice
+## Important Notice
 If uBlock Origin ever breaks a website, click the red shield icon to the right of the address bar, click the giant power button, and reload the page. This will disable uBlock Origin for that website.
 
 ---
