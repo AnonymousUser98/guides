@@ -41,6 +41,8 @@ If you are Canadian, follow [these instructions](edge-en-ca.md) to get the corre
 
 ### Don't Save My Info
 By default, most browsers (including Edge) will save your passwords and other autofill information. This is insecure and can be easily accessed by malware, so you should disable it.
+
+If you want to save your passwords, you should use a dedicated password manager. Make sure it's secure. [Click here for recommendations](../password-managers.md)
 <!-- REMEMBER: Add note with link to password manager guide -->
 
 1. Go to the _Passwords and autofill_ section of your browser settings.
@@ -93,13 +95,6 @@ Make sure you follow all the instructions.
 1. Open this link in Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/consentomatic/eflcfflijdiekjkegjghbchoncjhfkda
 1. Click the blue _Get_ button, then click _Add extension_.
 1. A new tab will open. Set your cookie preferences, then close the tab.
-
-### TrafficLight
-1. Open this link in Microsoft Edge: https://chromewebstore.google.com/detail/trafficlight/cfnpidifppmenkapgihekkeednfoenal
-1. Click the _Get extension_ button, then click _Add extension_.
-1. Click the puzzle piece icon in the toolbar.
-1. Click _TrafficLight_, then click the settings icon in the top-right corner of the popup that appears.
-1. Turn off the _Search Advisor_ setting.
 
 ### Don't track me Google
 1. Open this link in Microsoft Edge: https://chromewebstore.google.com/detail/dont-track-me-google/gdbofhhdmcladcmmfjolgndfkpobecpg
