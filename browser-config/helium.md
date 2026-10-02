@@ -1,5 +1,5 @@
 ---
-title: Best Browser Setup (Helium)
+title: Installing Helium
 permalink: /browser-setup/helium/
 ---
 
