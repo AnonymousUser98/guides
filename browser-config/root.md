@@ -14,7 +14,7 @@ I recommend using Helium because it's easy to set up and has very good default s
 If you're already using an incompatible browser, don't worry; it's very easy to import your data.
 
 ### Helium (Recommended, Easiest)
-> Continue to [Installing Helium](helium.md)
+> Continue to [Setup Guide (Helium)](helium.md)
 
 ### Firefox
 I haven't finished this guide yet.
