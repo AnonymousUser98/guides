@@ -21,6 +21,12 @@ minima:
     - windows.md
     - android.md
 
+header_pages:
+  - index.md
+  - browser-config/root.md
+  - windows.md
+  - android.md
+
 exclude:
   - Gemfile
   - Gemfile.lock
