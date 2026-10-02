@@ -94,3 +94,35 @@ Click on the _Import..._ category at the bottom of the page to expand it and rev
 
 Finally, click the _Apply changes_ button in the top-left corner.
 
+
+## Setting Up Extensions
+There are 3 extensions you should add, and another optional one.
+
+### Decentraleyes
+This will slightly improve privacy by locally hosting common JavaScript libraries instead of retrieving them from a CDN that tracks you.
+
+1. Open this link in Helium: https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj
+1. Click the blue _Add to Helium_ button.
+1. Click _Add extension_ in the popup that appears.
+1. Wait for the extension to download (this might take a while because Helium proxies extension downloads).
+1. Close the "What's New" tab that opens when the download finishes.
+
+### Don't track me Google
+This will make it less annoying to copy links from Google Search.
+
+1. Open this link in Helium: https://chromewebstore.google.com/detail/dont-track-me-google/gdbofhhdmcladcmmfjolgndfkpobecpg
+1. Click the blue _Add to Helium_ button
+1. Click _Add extension_ in the popup that appears.
+
+### Consent-O-Matic
+This will automatically handle cookie popups and reject the cookies you don't want.
+
+1. Open this link in Helium: https://chromewebstore.google.com/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd
+1. Click the blue _Add to Helium_ button.
+1. Click _Add extension_ in the popup that appears.
+1. Choose your preferred cookie settings in the new tab that opens.
+
+### Microsoft Defender Browser Protection (Optional)
+If you want some extra malware protection, you can get this extension. Some reviews complain about false positives, but I haven't had any problems. It uses the same protection used by Microsoft Edge.\
+You can download the extension here: https://chromewebstore.google.com/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml
+
