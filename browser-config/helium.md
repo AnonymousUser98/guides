@@ -75,3 +75,22 @@ There's one thing to change here, and it all depends on your personal preference
 
 If you want a _Save as_ popup to appear when you download a file (to choose where to save it), turn on _Ask where to save each file before downloading_. If you want downloads to always go to your _Downloads_ folder, leave it turned off.
 
+## Configuring uBlock Origin
+Helium comes with an extension called _uBlock Origin_, which blocks ads, trackers, annoyances, malware, scams, phishing websites, cookie popups, and more. The default settings are pretty good, but there are a few things you should change.
+
+First, click on the uBO (uBlock Origin) icon to the right of the address bar, then click the gears icon.\
+<img width="300" src="images/helium/ubo-popup-arrows.png" />
+
+A new tab will open. Click on the _Filter lists_ tab at the top of the page.
+
+You should now change a few things. If something seems missing, try clicking the name of the category it's in.
+
+**Turn on the following checkboxes:**
+- Privacy >> Block Outsider Intrusion into LAN
+- Malware domains >> Phishing URL Blocklist
+- Annoyances >> AdGuard - Annoyances >> (turn on everything except _AdGuard - Widgets_ (the bottom option))
+
+Click on the _Import..._ category at the bottom of the page to expand it and reveal a large textbox. Copy the text `https://big.oisd.nl/` into the textbox and **make sure you press Enter to create a new line after the pasted URL**.
+
+Finally, click the _Apply changes_ button in the top-left corner.
+
