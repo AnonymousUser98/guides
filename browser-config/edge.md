@@ -43,7 +43,6 @@ If you are Canadian, follow [these instructions](edge-en-ca.md) to get the corre
 By default, most browsers (including Edge) will save your passwords and other autofill information. This is insecure and can be easily accessed by malware, so you should disable it.
 
 If you want to save your passwords, you should use a dedicated password manager. Make sure it's secure. [Click here for recommendations](../privacy-security/password-managers.md)
-<!-- REMEMBER: Add note with link to password manager guide -->
 
 1. Go to the _Passwords and autofill_ section of your browser settings.
 1. Under _Microsoft Password Manager_, turn off _Ask to save passwords and passkeys_.
