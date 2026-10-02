@@ -11,7 +11,7 @@ You'll need to choose a web browser that works with this setup. There's a good c
 
 I recommend using Helium because it's easy to set up and has very good default settings. Firefox is a good choice, but it requires a lot more configuration. Brave is also good, but it comes with some bloatware that needs to be manually disabled. Stay away from [these browsers](browsers-to-avoid.md).
 
-If you're already using an incompatible browser, it's very easy to import your data.
+If you're already using an incompatible browser, don't worry; it's very easy to import your data.
 
 ### Helium (Recommended, Easiest)
 > Continue to [Installing Helium](helium.md)
