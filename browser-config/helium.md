@@ -58,10 +58,11 @@ Depending on your preferences, you might want to change the following settings:
 - **Customize your toolbar** - If you want to, you can add extra icons to your toolbar.
 
 ### Privacy and security
-Almost all of the default settings in this section are really good, but there are 2 things you should change:
+Almost all of the default settings in this section are really good, but there are 3 things you should change:
 
 - **Network and security >> Global Privacy Control (GPC)** - Turn this on.
 - **Network and security >> Send a "Do Not Track" signal with your browsing traffic** - Turn this on.
+- **Site settings >> Third-party cookies >> Allow third-party cookies** - Select this option.
 
 ### Search engine
 If you want to, turn on _Suggestions from the search engine_.
