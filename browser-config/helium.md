@@ -13,7 +13,7 @@ Go to the [Helium website](https://helium.computer/) and click the download butt
 ## Initial Setup
 
 You will see this screen:\
-<img width="500" src="../images/helium/setup-part1.png" />
+<img width="500" src="../../browser-config/images/helium/setup-part1.png" />
 
 Click the _Configure_ button.
 
@@ -35,7 +35,7 @@ If you know which password manager you want, click on its _Install_ button. Othe
 You will be asked if you want to set Helium as your default browser. I recommend doing this if you plan to use Helium as your primary browser. If you are just trying it out, click _No_.
 
 If you choose to set Helium as your default browser, a settings window will open (assuming you're using Windows):\
-<img width="600" src="../images/default-browser.png" />
+<img width="600" src="../../browser-config/images/default-browser.png" />
 
 Click the _Set default_ button (circled in the above screenshot), then close the settings window.
 
@@ -79,7 +79,7 @@ If you want a _Save as_ popup to appear when you download a file (to choose wher
 Helium comes with an extension called _uBlock Origin_, which blocks ads, trackers, annoyances, malware, scams, phishing websites, cookie popups, and more. The default settings are pretty good, but there are a few things you should change.
 
 First, click on the uBO (uBlock Origin) icon to the right of the address bar, then click the gears icon.\
-<img width="300" src="../images/helium/ubo-popup-arrows.png" />
+<img width="300" src="../../browser-config/images/helium/ubo-popup-arrows.png" />
 
 A new tab will open. Click on the _Filter lists_ tab at the top of the page.
 
