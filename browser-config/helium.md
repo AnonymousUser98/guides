@@ -13,7 +13,7 @@ Go to the [Helium website](https://helium.computer/) and click the download butt
 ## Initial Setup
 
 You will see this screen:\
-<img width="500" src="images/helium/setup-part1.png" />
+<img width="500" src="./images/helium/setup-part1.png" />
 
 Click the _Configure_ button.
 
