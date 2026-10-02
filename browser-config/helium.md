@@ -126,3 +126,8 @@ This will automatically handle cookie popups and reject the cookies you don't wa
 If you want some extra malware protection, you can get this extension. Some reviews complain about false positives, but I haven't had any problems. It uses the same protection used by Microsoft Edge.\
 You can download the extension here: https://chromewebstore.google.com/detail/microsoft-defender-browse/bkbeeeffjjeopflfhgeknacdieedcoml
 
+
+---
+
+You should now have the best web browser configuration.\
+You might want to periodically check this guide for updates.
