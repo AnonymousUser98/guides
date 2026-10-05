@@ -31,3 +31,6 @@ If you're using it for advanced TASing, this is what you should use. It's used b
 For advanced testing and experimenting with STROOP (or glitchhunting), use Bizhawk to get high-accuracy emulation. Keep in mind that you'll need to use the original STROOP because the FramePerfection refactor doesn't work with Bizhawk.
 
 To use STROOP with Bizhawk's Ares64 core (which is more accurate), you'll need to remove the text `offsetDll="mupen64plus.dll" ramStart="0x6A1C0"` from the Bizhawk line in `Config.xml`.
+
+### For Playing SM64 ROM Hacks
+You should use Parallel Launcher. It will automatically configure the emulator settings for the specific ROM hack that you're playing, and it has easy RetroAcheivements integration through RetroArch.
