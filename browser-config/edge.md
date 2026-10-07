@@ -3,6 +3,10 @@ title: Best Browser Setup (Microsoft Edge)
 permalink: /browser-setup/edge/
 ---
 
+# NOTICE
+Microsoft has removed uBlock Origin from the extension store. Edge is no longer compatible with this setup.\
+Please follow one of my setup guides for a different browser.
+
 ## Browser Settings
 To get the best configuration in Microsoft Edge, you should start by changing some settings.
 
