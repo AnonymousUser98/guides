@@ -13,14 +13,11 @@ I recommend using Helium because it's easy to set up and has very good default s
 
 If you're already using an incompatible browser, don't worry; it's very easy to import your data.
 
-### Helium (Recommended, Easiest)
+### Helium (Easier)
 > Continue to [Setup Guide (Helium)](helium.md)
 
-### Firefox
+### Firefox (Better)
 I haven't finished this guide yet.
-
-### Brave
-Unfinished
 
 ### Microsoft Edge
 Even though they haven't removed Manifest V2 support yet, Microsoft has removed uBlock Origin from the Edge extension store. As a result, Microsoft Edge is no longer compatible with this setup.
