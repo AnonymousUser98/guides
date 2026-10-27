@@ -118,3 +118,11 @@ When you're done, click _Done_ in the bottom-right corner.
 
 ### Set As Default Browser
 If you want to use Firefox as your main web browser, you should go to **Settings >> Home and startup** and choose the option to set Firefox as your default browser. On Windows 11, a settings window will pop up, where you'll need to click the _Set default_ button.
+
+### Change Icon
+If you want to change the app icon, you can go to **Settings >> Appearance >> Change browser icon**. Some icons are only available if you set Firefox as your default browser (but advanced users could probably bypass this by manually editing shortcuts).
+
+---
+
+You should now have the web browser configuration that I recommend.\
+You might want to ocassionally check this guide for updates.
