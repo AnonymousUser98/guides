@@ -7,9 +7,8 @@ Welcome to my browser setup guide! This guide will show you how to easily get th
 
 ## Choosing Your Browser
 
-You'll need to choose a web browser that works with this setup. There's a good chance the browser you're using is incompatible. Google Chrome is not compatible (because Google hates ad blockers). Firefox, Brave, Helium, and Firefox forks are compatible (but Firefox and its forks are harder to set up).
-
-I recommend using Helium because it's easy to set up and has very good default settings. Firefox is a good choice, but it requires a lot more configuration. Brave is also good, but it comes with some bloatware that needs to be manually disabled. Stay away from [these browsers](browsers-to-avoid.md).
+You'll need to choose a web browser that works with this setup. There's a good chance the browser you're using is incompatible. Google Chrome is not compatible (because Google hates ad blockers).
+I recommend using Helium or Firefox. Helium has very good default settings and is easy to set up, and Firefox has lots of good features such as containers and cross-site cookie isolation. Brave is also good, but it comes with some bloatware that needs to be manually disabled. Stay away from [these browsers](browsers-to-avoid.md).
 
 If you're already using an incompatible browser, don't worry; it's very easy to import your data.
 
