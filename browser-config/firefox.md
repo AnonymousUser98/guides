@@ -110,7 +110,7 @@ Extensions are what makes this configuration different from other browsers.
 ### Customize Toolbar
 Right-click anywhere to the left or right of the address bar and choose _Customize Toolbar..._ to open a new tab. From here, you can customize your toolbar.
 
-Here's a suggestion:\
+Here's a suggestion (if you can't see it clearly, right-click and open image in new tab):\
 <img width="900" src="../../browser-config/images/firefox/toolbar-suggestion.png" />
 
 When you're done, click _Done_ in the bottom-right corner.
@@ -123,6 +123,7 @@ If you want to use Firefox as your main web browser, you should go to **Settings
 If you want to change the app icon, you can go to **Settings >> Appearance >> Change browser icon**. Some icons are only available if you set Firefox as your default browser (but advanced users could probably bypass this by manually editing shortcuts).
 
 ---
+
 
 You should now have the web browser configuration that I recommend.\
 You might want to ocassionally check this guide for updates.
