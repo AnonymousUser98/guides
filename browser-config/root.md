@@ -16,7 +16,7 @@ If you're already using an incompatible browser, don't worry; it's very easy to 
 > Continue to [Setup Guide (Helium)](helium.md)
 
 ### Firefox (Better)
-I haven't finished this guide yet.
+> Continue to [Setup Guide (Firefox)](firefox.md)
 
 ### Microsoft Edge
 Even though they haven't removed Manifest V2 support yet, Microsoft has removed uBlock Origin from the Edge extension store. As a result, Microsoft Edge is no longer compatible with this setup.
