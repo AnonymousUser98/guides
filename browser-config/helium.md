@@ -1,9 +1,8 @@
 ---
-title: Best Browser Setup (Helium)
+title: Recommended Browser Setup (Helium)
 permalink: /browser-setup/helium/
 ---
 
-Helium is the browser I recommend for this setup. It has very good default settings and is easy to set up.
 
 ## Installing Helium
 
@@ -130,5 +129,5 @@ You can download the extension here: https://chromewebstore.google.com/detail/mi
 
 ---
 
-You should now have the best web browser configuration.\
+You should now have the web browser configuration that I recommend.\
 You might want to periodically check this guide for updates.

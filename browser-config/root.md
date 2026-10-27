@@ -1,9 +1,9 @@
 ---
-title: Best Browser Setup
+title: Recommended Browser Setup
 permalink: /browser-setup/
 ---
 
-Welcome to my browser setup guide! This guide will show you how to easily get the best web browser configuration. This setup will greatly improve your experience when browsing the web. You'll be able to get rid of all the ads, trackers, annoyances, cookie popups, and more.
+Welcome to my browser setup guide! This guide will show you how to easily get the web browser configuration that I recommend using. This setup will greatly improve your experience when browsing the web. You'll be able to get rid of all the ads, trackers, annoyances, cookie popups, and more.
 
 ## Choosing Your Browser
 
