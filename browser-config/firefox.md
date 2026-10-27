@@ -87,3 +87,34 @@ Extensions are what makes this configuration different from other browsers.
    - Annoyances >> uBlock Filters - Annoyances
 1. Copy the text `https://big.oisd.nl` into the _Import..._ textbox and press Enter to add a newline.
 1. Click the blue _Apply changes_ button at the top of the page (and wait for it to load).
+
+### Consent-O-Matic
+1. Open this link in Firefox: https://addons.mozilla.org/firefox/addon/consent-o-matic/
+1. Click the blue _Add to Firefox_ button.
+1. Click _Add_ in the thing that pops up.
+1. Leave the _Pin extension to toolbar_ option unchecked and click OK.
+1. A new tab will open. Choose your cookie preferences, then close the tab.
+
+### LocalCDN
+1. Open this link in Firefox: https://addons.mozilla.org/en-CA/firefox/addon/localcdn-fork-of-decentraleyes/
+1. Click the blue _Add to Firefox_ button.
+1. Click _Add_ in the thing that pops up.
+1. Leave the _Pin extension to toolbar_ option unchecked and click OK.
+<!-- TO-DO: See if leaving Google Fonts blocked causes problems -->
+
+
+## Optional Enhancements/Customization
+<!-- TO-DO: Add instructions for YouTube Enhancer and SponsorBlock -->
+<!-- TO-DO: Add instructions for the "Bypass All Shortlinks Debloated" userscript with Violentmonkey -->
+
+### Customize Toolbar
+Right-click anywhere to the left or right of the address bar and choose _Customize Toolbar..._ to open a new tab. From here, you can customize your toolbar.
+
+Here's a suggestion:\
+<img width="700" src="../../browser-config/images/firefox/toolbar-suggestion.png" />
+
+When you're done, click _Done_ in the bottom-right corner.
+
+
+### Set As Default Browser
+If you want to use Firefox as your main web browser, you should go to **Settings >> Home and startup** and choose the option to set Firefox as your default browser. On Windows 11, a settings window will pop up, where you'll need to click the _Set default_ button.
