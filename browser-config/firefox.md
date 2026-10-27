@@ -111,7 +111,7 @@ Extensions are what makes this configuration different from other browsers.
 Right-click anywhere to the left or right of the address bar and choose _Customize Toolbar..._ to open a new tab. From here, you can customize your toolbar.
 
 Here's a suggestion:\
-<img width="700" src="../../browser-config/images/firefox/toolbar-suggestion.png" />
+<img width="900" src="../../browser-config/images/firefox/toolbar-suggestion.png" />
 
 When you're done, click _Done_ in the bottom-right corner.
 
