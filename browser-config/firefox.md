@@ -12,6 +12,7 @@ If it isn't already on your computer, go to [firefox.com](https://www.firefox.co
 1. Choose the visual colour theme you prefer, then click _Save and continue_.
 1. When asked about recommended extensions, click the _Skip this step_ button in the bottom-right corner.
 1. When asked to sign in and sync, just click the _Start browsing_ button in the bottom-right corner.
+1. If a settings window opens asking you to set Firefox as your default browser, just close it. You can set this option later.
 
 
 ## Browser Settings
@@ -60,3 +61,29 @@ Because of how everyone has different opinions about AI, you should look at thes
 ### Permissions and data
 Turn off everything in the _Firefox data collection and use_ subsection.
 
+
+## Setting Up Extensions
+Extensions are what makes this configuration different from other browsers.
+
+### uBlock Origin
+1. Open this link in Firefox: https://addons.mozilla.org/firefox/addon/ublock-origin/
+1. Click the blue _Add to Firefox_ button.
+1. Click _Add_ in the thing that pops up.
+1. Leave the _Pin extension to toolbar_ option checked and click OK.
+1. Click the uBlock Origin icon in the toolbar.
+1. Click the gears icon in the uBlock Origin popup.\
+   <img width="300" src="../../browser-config/images/firefox/ubo-popup-arrows.png" />
+1. Go to the _Filter lists_ tab at the top of the page that opens.
+1. Turn on the following options (click a category to expand it):
+   - Ads >> AdGuard - Ads
+   - Privacy >> AdGuard/uBO - URL Tracking Protection
+   - Privacy >> Block Outsider Intrusion into LAN
+   - Malware protection, security >> Phishing URL blocklist
+   - Cookie notices >> _Turn on everything in this category_
+   - Annoyances >> EasyList - Annoyances >> EasyList - Newsletter Notices
+   - Annoyances >> EasyList - Annoyances >> EasyList - Other Annoyances
+   - Annoyances >> AdGuard - Annoyances >> AdGuard - Other Annoyances
+   - Annoyances >> AdGuard - Annoyances >> AdGuard - Popup Overlays
+   - Annoyances >> uBlock Filters - Annoyances
+1. Copy the text `https://big.oisd.nl` into the _Import..._ textbox and press Enter to add a newline.
+1. Click the blue _Apply changes_ button at the top of the page (and wait for it to load).
